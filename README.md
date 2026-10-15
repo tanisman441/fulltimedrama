@@ -18,6 +18,11 @@ Tüm dosyalar: [Releases](https://github.com/tanisman441/fulltimedrama/releases)
 2. **metin** linkindeki açıklamayı kopyalayıp paylaşımın açıklamasına yapıştır (kaynaklar ve hashtag'ler hazır).
 3. Videonun sonunda FULL TIME DRAMA kapanış kartı ve "kaynaklar açıklamada" notu var; açıklamayı kaynaklarla birlikte paylaş.
 
+## Yeni video yapmak
+[FORMAT.md](FORMAT.md) bu videoların üretim tarifidir (renkler, fontlar, logo animasyonu, ekran yerleşimi, sahne türleri, senaryo yapısı, seslendirme prompt'u, müzik, kontrol listesi). Yapay zekâ asistanına (ör. Claude) şunu yaz:
+
+> "https://github.com/tanisman441/fulltimedrama reposundaki FORMAT.md'yi ve örnek videoları incele; tarife birebir uyarak `<maç / oyuncu>` için bir FULL TIME DRAMA videosu yap."
+
 ## Notlar
 - Videolar tamamen kodla çizilmiş animasyonlardır (ft-motion); seslendirme Gemini TTS. Maç analizinde oyuncu konumları maç özetindeki görüntülerden alındı; oyuncu fotoğrafları Wikimedia Commons'tan (künyeler açıklamada).
 - Yeni videolar eklendikçe bu tablo güncellenir.
